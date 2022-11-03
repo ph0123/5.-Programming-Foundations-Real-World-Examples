@@ -28,3 +28,4 @@ print(my_jeans.wearing)
 
 my_jeans.take_off()
 print(my_jeans.wearing)
+#easy to use and maintain the code.

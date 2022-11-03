@@ -13,7 +13,8 @@ class shirt:
 
 # create one shirt with two names
 red = shirt()
-crimson = red
+crimson = red #just assign the same address. 
+#use import copy and call copy.copy() or create new object.
 
 # examine the red/crimson shirt
 print(id(red))
