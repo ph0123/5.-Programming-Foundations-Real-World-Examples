@@ -29,3 +29,6 @@ print(make_omelette('spam'))
 
 # make Olivia's fancy omelette
 print(fancy_omelette('sausage', 'onion', 'pepper', 'spinach', 'mushroom', 'tomato', 'goat cheese'))
+
+
+#Simple too.

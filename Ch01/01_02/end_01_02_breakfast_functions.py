@@ -21,3 +21,5 @@ def make_pancake():
 # make some breakfast
 print(make_omelette())
 print(make_pancake())
+
+#simple too...
