@@ -44,3 +44,6 @@ my_ecar.drive()
 
 # access the lingering gas tank
 print(my_ecar.gas)
+
+
+#copy methods from base class and modify as we want.

@@ -49,3 +49,4 @@ my_car.radio()
 my_car.window()
 my_mc.helmet()
 # my_mc.window() # windows do not exist on motorcycles
+# simple inheritance.... Not ABS or Interface
