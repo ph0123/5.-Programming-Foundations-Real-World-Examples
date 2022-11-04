@@ -7,3 +7,5 @@ print(urllib.request.urlopen('http://www.google.com'))
 
 # get the path to urllib package
 print(urllib.__path__)
+
+#not much information. 
