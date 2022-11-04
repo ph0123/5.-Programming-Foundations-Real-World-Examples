@@ -33,3 +33,5 @@ for floor in lot_3d:    # cycle through each floor in the multi-story garage
     for row in floor:   # cycle through each row in the floor
         for car in row: # cycle through each car in the row
             print(car)
+
+#simple

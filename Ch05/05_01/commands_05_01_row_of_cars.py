@@ -8,6 +8,7 @@ row.append('Mercedes')
 print(row)
 print(row[4])
 
+#no more information.
 # swap the BMW at index 2 for a Jeep
 row[2] = 'Jeep'
 print(row)
