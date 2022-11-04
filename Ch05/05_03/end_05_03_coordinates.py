@@ -12,3 +12,6 @@ def mouse_click(event):
 root = tkinter.Tk()
 root.bind('<Button>', mouse_click)
 root.mainloop()
+
+
+#simple tkinter.
