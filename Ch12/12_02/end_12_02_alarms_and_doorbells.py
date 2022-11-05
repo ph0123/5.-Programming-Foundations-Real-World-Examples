@@ -27,3 +27,6 @@ root.after(4000, alarm)
 
 # start the event loop
 root.mainloop()
+
+
+#quite simple example with tkinter.
